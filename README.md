@@ -115,22 +115,6 @@ I’m a data enthusiast who loves turning raw data into clear, actionable insigh
 
 ---
 
-## 📈 GitHub Highlights *(optional widgets)*
-
-> You can add these popular badges later by uncommenting and replacing your username `shree711`.
-
-<!-- GitHub Stats
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shree711&show_icons=true)
-
-Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shree711&layout=compact)
-
-Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=shree711)
--->
-
----
-
 ## 🌐 Let’s Connect
 
 * **LinkedIn:** [https://linkedin.com/in/shruti-doiphode](https://linkedin.com/in/shruti-doiphode)
